@@ -7,7 +7,7 @@ http://example.com/stream/skybox2.m3u8
 http://example.com/stream/skybox3.m3u8
 #EXTINF:-1 tvg-id="skybox4" tvg-name="Sky Box 4" tvg-logo="https://via.placeholder.com/150.png?text=Sky+Box+4" group-title="Sky",Sky Box 4
 http://example.com/stream/skybox4.m3u8
-#EXTINF:-1 tvg-id="skybox4" tvg-name="BBC News" tvg-logo="https://via.placeholder.com/150.png?text=Sky+Box+4" group-title="Sky",Sky Box 4
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC News" tvg-logo="https://via.placeholder.com/150.png?text=Sky+Box+4" group-title="Sky",Sky Box 4
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
@@ -91,4 +91,5 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="Sports | UK", Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
+
 
