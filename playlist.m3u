@@ -7,8 +7,9 @@ http://example.com/stream/skybox2.m3u8
 http://example.com/stream/skybox3.m3u8
 #EXTINF:-1 tvg-id="skybox4" tvg-name="Sky Box 4" tvg-logo="https://via.placeholder.com/150.png?text=Sky+Box+4" group-title="Sky",Sky Box 4
 http://example.com/stream/skybox4.m3u8
-#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC News" tvg-logo="https://via.placeholder.com/150.png?text=Sky+Box+4" group-title="Sky",Sky Box 4
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC News" tvg-logo="https://via.placeholder.com/150.png?text=Sky+Box+4" group-title="BBC",BBC News
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+
 
 
 
